@@ -22,9 +22,9 @@ const facts = [
 
 function johnLennonFacts(facts) {
   var i = 0;
-  var newFacts = [];
+  var jLFacts = [];
   while (i < facts.length) {
-    newFacts.push(`${facts[i]}!!!`);
+    jLFacts.push(`${facts[i]}!!!`);
     i++;
   }
  return newFacts;
