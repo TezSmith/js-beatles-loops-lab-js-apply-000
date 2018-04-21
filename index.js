@@ -27,5 +27,5 @@ function johnLennonFacts(facts) {
     jLFacts.push(`${facts[i]}!!!`);
     i++;
   }
- return newFacts;
+ return jLFacts;
 }
